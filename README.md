@@ -15,8 +15,8 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-[![Seu nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuário&show_icons=true&theme=radical)](https://github.com/seu-usuário)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário&layout=compact)](https://github.com/seu-usuário)
+[![Seu nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuário&show_icons=true&theme=radical)](https://github.com/EdwanMarks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário&layout=compact)](https://github.com/EdwanMarks)
 
 ---
 
